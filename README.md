@@ -15,7 +15,7 @@ Copypastede bare krone-taxa.js og krone-taxa.html, ændrede html filen til at pe
 ### Opgave 4
 Lavede en variabel som bliver kaldt i start.js hver gang der er gået et sekund. Som siger "hvis der er under en kilomet, så er prisen 5 ellers er den 9."
 
-Har også gjort så man rent faktisk kan kalde på taxameter.variabel istedet for at det er noget scuffed kode der bare ligger der. (Med hjælp fra Hampus).
+Har også gjort så man rent faktisk kan kalde på taxameter.variabel istedet for at det er noget scuffed kode der bare ligger der. 
 ###Todo - Kommenter kode.
 ### Bonus opgave 1 (overkommelig)
 Udvid Taxameter.js med et firmanavn og en tekstbeskrivelse af prismodellen. Dette kræver at start.js bliver ændret en smule.
